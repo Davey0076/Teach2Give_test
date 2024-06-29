@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Teach2Give_test.iml" filepath="$PROJECT_DIR$/.idea/Teach2Give_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse_function/reverse_function.iml" filepath="$PROJECT_DIR$/reverse_function/reverse_function.iml" />
     </modules>
   </component>

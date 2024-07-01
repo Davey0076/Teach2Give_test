@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Teach2Give_test.iml" filepath="$PROJECT_DIR$/.idea/Teach2Give_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YodaReverseWords/YodaReverseWords.iml" filepath="$PROJECT_DIR$/YodaReverseWords/YodaReverseWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consecutive_numbers/consecutive_numbers.iml" filepath="$PROJECT_DIR$/consecutive_numbers/consecutive_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/most_frequent/most_frequent.iml" filepath="$PROJECT_DIR$/most_frequent/most_frequent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pangram/pangram.iml" filepath="$PROJECT_DIR$/pangram/pangram.iml" />

@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class ConsecutiveThreesChecker {
+public class ConsecutiveThrees {
 
     public static boolean hasConsecutiveThrees(int[] arr) {
         // Iterate through the array up to the second-to-last element

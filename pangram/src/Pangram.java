@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class PangramChecker {
+public class Pangram {
 
     public static boolean isPangram(String str) {
         if (str == null || str.isEmpty()) {
@@ -36,7 +36,7 @@ public class PangramChecker {
         String input = sc.nextLine();
 
         try {
-            boolean isPangram = PangramChecker.isPangram(input);
+            boolean isPangram = Pangram.isPangram(input);
             if (isPangram) {
                 System.out.println("The string is a pangram.");
             } else {

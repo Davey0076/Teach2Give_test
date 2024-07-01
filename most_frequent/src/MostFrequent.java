@@ -4,7 +4,7 @@ import java.util.Map;
 public class MostFrequent {
     public static char findMostFrequentChar(String str) {
         if (str == null || str.isEmpty()) {
-            throw new IllegalArgumentException("Input string cannot be null or empty");
+            throw new IllegalArgumentException("Input string cannot be empty");
         }
 
         // Initialize a HashMap to count frequencies
